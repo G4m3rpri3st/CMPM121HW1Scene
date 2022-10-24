@@ -19,3 +19,4 @@ List of objects in scene:
 - Shop Stall (Found in Polygon Starter Pack by Synty Studios)
 - Dirt Tile (Found in Polygon Starter Pack by Synty Studios)
 - Cobblestones (Found in Polygon Starter Pack by Synty Studios)
+- Skybox (Found in Skybox Series Free)
